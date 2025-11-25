@@ -1,2 +1,4 @@
-github.com/chang1532/goldap v0.0.0-20251125043304-b8b1fee5fbb2 h1:DWz7MJYwuVr20kYLzvs8nIswd5ziJPFk7iIbn00EXos=
-github.com/chang1532/goldap v0.0.0-20251125043304-b8b1fee5fbb2/go.mod h1:BrYLGGHmtDnzj8RbX8dHEVnxu/VxAnzX1iTAa4urkzw=
+github.com/chang1532/goldap v0.0.0-20251125071727-f2b57b92e158 h1:w4NCae/PK2POB5EqzkkDDCLz/HhVdBjHQj9ErwhY/40=
+github.com/chang1532/goldap v0.0.0-20251125071727-f2b57b92e158/go.mod h1:BrYLGGHmtDnzj8RbX8dHEVnxu/VxAnzX1iTAa4urkzw=
+github.com/vjeantet/ldapserver v1.0.1 h1:3z+TCXhwwDLJC3pZCNbuECPDqC2x1R7qQQbswB1Qwoc=
+github.com/vjeantet/ldapserver v1.0.1/go.mod h1:YvUqhu5vYhmbcLReMLrm/Tq3S7Yj43kSVFvvol6Lh6k=
